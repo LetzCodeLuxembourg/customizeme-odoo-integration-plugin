@@ -1,7 +1,8 @@
 {
     'name': 'CustomizeMe | 3D configurator',
     'category': 'Website/Website',
-    'summary': 'customizeme',
+    'summary': 'Boost your sales and customer satisfaction with CustomizeMe for Odoo!',
+    'website': 'https://customizeme.app/',
     'author': 'LetzCode',
     'version': '1.0.0',
     'description': """
