@@ -1,5 +1,5 @@
 {
-    'name': 'CustomizeMe',
+    'name': 'CustomizeMe | 3D configurator',
     'category': 'Website/Website',
     'summary': 'customizeme',
     'author': 'LetzCode',
