@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 {
     'name': 'CustomizeMe | 3D configurator',
     'category': 'Website/Website',

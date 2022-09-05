@@ -1,11 +1,11 @@
+# -*- coding: utf-8 -*-
+
 from odoo import http
 from odoo.http import request, Controller
 import json
-import logging
-_logger = logging.getLogger(__name__)
 
 
-class CustomizemeController(Controller):
+class CustomizemeDataController(Controller):
     @http.route('/customizeme/data', type='http', auth="public", website=True, csrf=False)
     def get_settings(self, product_id):
 
