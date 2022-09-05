@@ -12,6 +12,7 @@ Boost your sales and customer satisfaction with CustomizeMe for Odoo!
     """,
     'depends': ['website', 'sale', 'website_sale'],
     'data': [
+        'security/ir.model.access.csv',
         'views/customizeme_product.xml',
         'views/customizeme_product_frontend.xml',
         'views/customizeme_settings.xml',
@@ -19,4 +20,5 @@ Boost your sales and customer satisfaction with CustomizeMe for Odoo!
     'application': True,
     'installable': True,
     'auto_install': False,
+    'license': 'LGPL-3',
 }
