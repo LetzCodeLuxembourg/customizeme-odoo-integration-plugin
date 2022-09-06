@@ -11,6 +11,7 @@
 Boost your sales and customer satisfaction with CustomizeMe for Odoo!
     """,
     'depends': ['website', 'sale', 'website_sale'],
+    'images': ['static/description/img.png'],
     'data': [
         'security/ir.model.access.csv',
         'views/customizeme_product.xml',
